@@ -8,5 +8,5 @@ You can report ideas for [new functions](https://github.com/pdir/website-check/i
 
 Dies ist das Support Repository für den pdir [Website Check](https://pdir.de/website-check.html).
 
-Du kannst hier Ideen für [neue Funktionen](https://github.com/pdir/website-check/issues/new?assignees=&labels=&projects=&template=feature_request.md) oder [Probleme]((https://github.com/pdir/website-check/issues/new?assignees=&labels=&projects=&template=bug_report.md)) bei den Testergebnissen melden.
+Du kannst hier Ideen für [neue Funktionen](https://github.com/pdir/website-check/issues/new?assignees=&labels=&projects=&template=feature_request.md) oder [Probleme](https://github.com/pdir/website-check/issues/new?assignees=&labels=&projects=&template=bug_report.md) bei den Testergebnissen melden.
 
